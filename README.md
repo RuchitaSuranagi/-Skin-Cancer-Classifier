@@ -1,2 +1,2 @@
 # -Skin-Cancer-Classifier
- Skin Cancer Classifier model using Opacus library a Differential Privacy Tasks.
+ Skin Cancer Classifier model using Opacus library - Differential Privacy Tasks.
